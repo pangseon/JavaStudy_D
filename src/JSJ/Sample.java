@@ -7,6 +7,9 @@ public class Sample {
     
         System.out.printf("Hello and welcome!");
 
+        asdf();
+    }
+    public static void asdf(){
         for (int i = 1; i <= 5; i++) {
 
             System.out.println("i = " + i);
