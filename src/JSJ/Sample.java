@@ -4,6 +4,8 @@ package JSJ;
 // then press Enter. You can now see whitespace characters in your code.
 public class Sample {
 
+    public static void asdf(){
+=======
     public static void loop() {
         for (int i = 1; i <= 5; i++) {
 
